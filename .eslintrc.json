@@ -27,6 +27,9 @@
         "semi" : "off",
         "react/jsx-one-expression-per-line" : "off",
         "no-unused-vars" : "off",
-        "jsx-a11y/anchor-is-valid" : "off"
+        "jsx-a11y/anchor-is-valid" : "off",
+        "import/no-unresolved" : "off",
+        "import/extensions" : "off",
+        "max-len" : "off"
     }
 }
